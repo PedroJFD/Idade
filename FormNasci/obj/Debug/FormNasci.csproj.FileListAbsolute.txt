@@ -1,0 +1,11 @@
+C:\Users\pedro\source\repos\FormNasci\FormNasci\bin\Debug\FormNasci.exe.config
+C:\Users\pedro\source\repos\FormNasci\FormNasci\bin\Debug\FormNasci.exe
+C:\Users\pedro\source\repos\FormNasci\FormNasci\bin\Debug\FormNasci.pdb
+C:\Users\pedro\source\repos\FormNasci\FormNasci\obj\Debug\FormNasci.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\FormNasci\FormNasci\obj\Debug\FormNasci.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\FormNasci\FormNasci\obj\Debug\FormNasci.Form1.resources
+C:\Users\pedro\source\repos\FormNasci\FormNasci\obj\Debug\FormNasci.Properties.Resources.resources
+C:\Users\pedro\source\repos\FormNasci\FormNasci\obj\Debug\FormNasci.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\FormNasci\FormNasci\obj\Debug\FormNasci.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\FormNasci\FormNasci\obj\Debug\FormNasci.exe
+C:\Users\pedro\source\repos\FormNasci\FormNasci\obj\Debug\FormNasci.pdb
